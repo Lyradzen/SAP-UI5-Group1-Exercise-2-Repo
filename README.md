@@ -32,6 +32,6 @@ An SAP Fiori application.
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
-##Angelica Batin
-###Email: angelica.batin@accenture.com
-#####Learned to navigate through github and connecting the UI5. Familiarize myself in the terminologies and technicalities and it's usage. When to use teh fetch, pull and commit and also to make my changes by creating a branch and not to do changes in the Main. 
+## Angelica Batin
+### Email: angelica.batin@accenture.com
+##### Learned to navigate through github and connecting the UI5. Familiarize myself in the terminologies and technicalities and it's usage. When to use teh fetch, pull and commit and also to make my changes by creating a branch and not to do changes in the Main. 
