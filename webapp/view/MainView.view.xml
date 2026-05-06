@@ -1,6 +1,4 @@
-<mvc:View controllerName="sapui5exercise2.controller.MainView"
-    xmlns:mvc="sap.ui.core.mvc"
-    xmlns="sap.m">
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sapui5exercise2.controller.MainView">
     <Page id="page" title="{i18n>title}">
     </Page>
 </mvc:View>
