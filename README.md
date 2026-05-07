@@ -32,4 +32,8 @@ An SAP Fiori application.
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
-
+# Day 2 Learning
+Christian Daryl Ybanez
+Email: christian.d.ybanez@accenture.com
+Learned how to use the key functionalities of github and how to integrate it to SAP UI5.
+Also learned how to create a branch and clone a project.
