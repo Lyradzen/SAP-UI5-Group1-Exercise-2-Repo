@@ -40,4 +40,4 @@ An SAP Fiori application.
 
 ## Christian Daryl Ybanez
 ### Email: christian.d.ybanez@accenture.com
-##### Learned how to use the key functionalities of github and how to integrate it to SAP UI5. Also learned how to create a branch and clone a project.
+##### Learned how to use the key functionalities of github and how to integrate it to SAP UI5. Also learned how to create a branch and clone a project. 
