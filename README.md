@@ -33,7 +33,11 @@ An SAP Fiori application.
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
 
 # Day 2 Learning
-Christian Daryl Ybanez
-Email: christian.d.ybanez@accenture.com
-Learned how to use the key functionalities of github and how to integrate it to SAP UI5.
-Also learned how to create a branch and clone a project.
+
+## Angelica Batin
+### Email: angelica.batin@accenture.com
+##### Learned to navigate through github and connecting the UI5. Familiarize myself in the terminologies and technicalities and it's usage. When to use teh fetch, pull and commit and also to make my changes by creating a branch and not to do changes in the Main. 
+
+## Christian Daryl Ybanez
+### Email: christian.d.ybanez@accenture.com
+##### Learned how to use the key functionalities of github and how to integrate it to SAP UI5. Also learned how to create a branch and clone a project.
